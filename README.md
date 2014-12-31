@@ -1,7 +1,7 @@
 Debian Vagrant Boxes
 ====================
 
-The main goal of this repository is to provide ready to use Vagrant boxes. You can download it from "releases" tab.
+This repository provide ready to use Vagrant boxes. You can download it from "releases" tab.
 
 They are based on Debian/amd64 netinst iso file and created using [this](https://github.com/kraksoft/vagrant-box/blob/master/build-debian.sh) script.
 
